@@ -1,0 +1,17 @@
+button.css
+
+.button{
+	background-color: sandybrown;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: italic NORMAL;
+	width: 300px;
+	height: 70px;
+	font-size: 45px;
+}
+
+a:hover {
+	color: dark;
+	font-weight: bold;
+}

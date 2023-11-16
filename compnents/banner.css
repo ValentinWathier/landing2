@@ -1,0 +1,67 @@
+banner.css
+
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.001) 100%), url(https://api.instabilelab.it/site/assets/files/36856/jazz_amb_new.jpg) ; 
+	color:  white;
+	padding: 200px 200px;
+	background-size: cover;
+	background-position: center;
+	opacity: 0.5 ;
+	
+}
+
+.banner h1{
+	font-size: 80px;
+	font-weight: lighter ;
+    
+	opacity: 1 !important;
+	margin-bottom: 10px;
+	text-align: justify;
+	align-items: center;
+	width: 630px;
+	border-radius: 40px;
+	color: whitesmoke;
+	background-color: #11ffee00;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid black;
+	
+	
+}
+
+.banner h2{
+	font-size: 40px;
+	font-weight: lighter;
+	text-align: center;
+	font-family: italic 'arial', cursive;
+	margin-bottom: 50px;
+	text-align: center;
+	align-items: center;
+	width: 1000px;
+	border-radius: 1px;
+	color: black;
+	background-color: white;
+	display: block;
+	margin-left: 100px;
+	margin-right: auto;
+	border: 5px solid black;
+
+}
+
+.test{
+	text-align: justify;
+	align-items: center;
+	width: 1200px;
+	border-radius: 40px;
+	color: red;
+	
+	opacity: 1 !important;
+	
+
+
+}
+
+#logo{
+	opacity: 1 !important;
+}

@@ -1,0 +1,50 @@
+avatar.css
+
+.avatar{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	display: flex;
+    margin-bottom: 0px;
+    border: 3px whitesmoke;
+    
+
+
+
+}
+
+.avatars{
+	
+	margin-bottom: 100px;
+	overflow:hidden;
+	margin-left: 150px;
+
+}
+    
+.Valentin{
+	float: left;
+	margin-left: 0px;
+	
+}
+
+.Oscar{
+	float: left;
+	margin-left: 100px;
+}
+.Arthur{
+	float: left;
+	margin-left: 90px;
+}
+.Nico{
+	float: left;
+	margin-left: 90px;
+}
+
+.Mathou{
+	float: LEFT;
+	margin-left: 90px;
+}
+
+.deco{
+
+}
