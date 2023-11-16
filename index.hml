@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ESSEC Lounge</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<script src="https://kit.fontawesome.com/7a850daf3d.js" crossorigin="anonymous"></script>
+</head>
+
+
+
+<body>
+
+
+
+
+
+
+
+	<div class="banner" id="logo"> 
+ 
+	<div class="container">
+
+		<div class="test" >  <h1> ESSEC Lounge </h1>  	
+	<h2> Bienvenue sur la page d'ESSEC Lounge,  l'association autour du Jazz et sa culture </h2>
+	</div>
+
+</div>
+</div>
+    
+    <div class="container">
+		
+		
+	<div class="activite">
+	<h2>Nos projets</h2>
+<div class="card">
+	<div class="cards">
+		<img src="https://tsanteleina.com/wp-content/uploads/2014/11/DSF8479.jpg" alt="Photo lounge">
+		<h3>Un lounge au sein de l'ESSEC</h3>
+	</div>
+	<div class="cards">
+		<img src="https://www.musilink.com/uploads/posts/66/pictures/4303/detail.jpg" alt="Photo groupe">
+		<h3> Création d'un groupe de Jazz </h3>
+	</div>
+	<div class="cards">
+		<img src="https://i.pinimg.com/originals/a0/d8/00/a0d80027bdb9aae2753bbdcde1e2b2d5.jpg" alt="Photo Jazz ">
+		<h3>Evenements autour de la culture Jazz</h3>
+	</div>
+	</div>
+	
+
+<h2>L'Equipe</h2>
+
+<div class="avatars">
+	
+
+
+	<div class="Valentin">
+		<img class="avatar" src="https://media-exp1.licdn.com/dms/image/C4D03AQFmXqwFfdPv4g/profile-displayphoto-shrink_200_200/0/1640219344946?e=1654732800&v=beta&t=8os5qYtLmtd3qwkcWrKJ_9K394Gf6POtpSchwRAZfMQ"alt="Photo de Valentin">
+		<p><a href="https://www.linkedin.com/in/valentin-wathier-070530229/"target="_blank">Valentin, Président</p> </a>
+		</div>
+
+       <div class="Oscar">
+		<img class="avatar" src="https://media-exp1.licdn.com/dms/image/C4D03AQF7clFrQHxXbw/profile-displayphoto-shrink_200_200/0/1643031851059?e=1652918400&v=beta&t=wWfZfNucxV02QO6Hveo7op2tbchz7UCI1WNLZG-Wpg4" alt="Photo de Oscar">
+		<p><a href="https://www.linkedin.com/in/oscar-wallyn-b42994229/"target="_blank">Oscar, Responsable Musical</p></a>
+		</div>
+
+		<div class="Nico">
+	    <img class="avatar" src="https://media-exp1.licdn.com/dms/image/D4E35AQHacNpDEwyi2w/profile-framedphoto-shrink_800_800/0/1650966624438?e=2147483647&v=beta&t=cEeeRmTYLLrf5v0jTAU0k9E-JShqNma-oemUuytsSX0"alt="Photo de nico">
+	    <p><a href="https://www.linkedin.com/in/nicolas-jan-correia-18919822a/"target="_blank"> Nicolas, Trésorier</p></a>
+		</div>
+
+        <div class="Arthur">
+	    <img class="avatar" src="https://media-exp1.licdn.com/dms/image/C4D03AQHa2fjHy3NUjg/profile-displayphoto-shrink_200_200/0/1624567722129?e=1654732800&v=beta&t=5-MyrH_HUjo0UzVVtyNWTv7Ysg9fFxQbFXP1S0A_Wyg"alt="Photo de arthur">
+	    <p><a href="https://www.linkedin.com/in/arthur-aubriet/"target="_blank">Arthur, Vice Président</p></a>
+	    </div>
+
+
+       
+
+		<div class="Mathou">
+		<img class="avatar" src="https://media-exp1.licdn.com/dms/image/D4E35AQGTMq78Hhk3jw/profile-framedphoto-shrink_200_200/0/1643029949464?e=2147483647&v=beta&t=YXgctWZ6bbDU-5oUiKTP8qhUYF30fX-pOlVKvohjjhE" alt="Photo de Mathilde">
+		<p><a href="https://www.linkedin.com/in/mathilde-villela-597248202/?originalSubdomain=fr"target="_blank">Mathilde, Secrétaire générale</p></a>
+		</div>
+
+
+	    
+	
+</div>
+</div>
+
+ <a href="https://qlitfu48tmw.typeform.com/to/Omdee9g5" class="button" target="_blank"> Intéressé ?</a> 
+
+	<div class="follow">
+		 <h2>Contact :</h2>
+	 <div class="liste">
+		<ul>
+			<li>
+			 <a href="mailto:valentin.wathier@essec.edu"target="_blank"><i class="fa-solid fa-envelope"></i></a>
+			</li>
+			<li> 
+				<a href="https://www.linkedin.com/school/essec-business-school/"target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+			</li>
+			<li> 
+				<a href="https://www.facebook.com/essec/"target="_blank"><i class="fa-brands fa-facebook"></i> </a>
+			</li>
+		</ul>
+		</div>
+		
+		</div>
+
+
+</div>
+</body>
+</html>
